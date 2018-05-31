@@ -1,0 +1,6 @@
+.vs/*
+bin/*
+obj/*
+[Vv]isual [Ss]tudio 2017/*
+[Vv]isual [Ss]tudio 2017[Tt]emplates/*
+**/*.bin
