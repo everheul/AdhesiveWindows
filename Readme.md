@@ -3,8 +3,6 @@
 
 ### A  Window Manager for VB.NET Windows Forms Applications.
 
-![Testing Adhesive](http://darn.nl/adhesive/adhesive_test_app2.png)
-
 ## Features
  - **Automaticly** re-opens all last used tool windows on startup.
  - Offers named **Layout Presets**, to quickly switch between different jobs. 
@@ -36,8 +34,6 @@
 ## Testing Adhesive
 Would you like to check out the Adhesive Windows features? **Great!** Do you have [**GIT**](https://github.com/git-for-windows/git/releaseshttps://github.com/git-for-windows/git/releases/latest "GIT for Windows") installed? Or [**Github Desktop**](https://desktop.github.com/ "Github Desktop")? Then you can clone the Adhesive Test app from [**here**](https://github.com/everheul/AdhesiveWindows.git "Adhesive Test") to a local directory. Otherwise, download the zip and unpack it. Then open the project in Visual Studio, &#x2BC8;**Start** it... and be amazed.
 Please remember, reactions from testers, especially on *rare* Windows versions, are crucial for a Windows Manager. So DO let us know about your experiences!
-
-![Testing Adhesive](http://darn.nl/adhesive/adhesive_test_app1.png)
 
  1. **Start**. The first thing you may notice, when you start the Adhesive Windows Test App, is that it already opens a set of tool windows for you. That's in the default user settings - if you didn't scale your display to 125% or more. If you now move, size, close and/or open some tool windows and then exit, next time you will find everything exactly the way you left it.
  2. **Test Windows.** You can create as many Test Windows as you like, open them, close them, or click on "Reset" to remove them all. The border type of a test window can be changed without changing its "Visual Bounds". A pleasantry. Or?
