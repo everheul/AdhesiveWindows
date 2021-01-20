@@ -13,7 +13,7 @@
  - **Easy to Implement** in any VB.NET Windows Forms application.
  - Comes with a fully featured **Test Application** to quickly get the idea, and as a base for further development.
 
-![test app sample](https://github.com/everheul/AdhesiveWindows/adhesive_test_app.png)
+![test app sample](https://github.com/everheul/AdhesiveWindows/blob/master/adhesive_test_app.png)
 
 ## Implementation
 
